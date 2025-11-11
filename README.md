@@ -1,27 +1,64 @@
-# NTi_Final_project
-NTi Training Track machine learning
+<h1 align="center" style="color:#0077b6;">🚀 NTI Final Project – Machine Learning Track</h1>
 
-This project was developed during my training at NTI.  
-It focuses building a machine learning model using Python and Google Colab
-This project is manual linear regression and logistic regression 
+<p align="center">
+  <strong>Developed during my training at <span style="color:#0096c7;">NTI (National Training Institute)</span></strong><br>
+  Focused on <b>building and understanding Machine Learning models</b> using <b>Python</b> and <b>Google Colab</b>.
+</p>
 
-## Contents
-- Data preprocessing
-- Exploratory Data Analysis (EDA)
-- Model training and evaluation
-- Results and visualization
+---
 
-## data 
-- Linear regression used is dataset (salary) data
-     - dataset two columns (years experience, salary)
-- logistic regression use is dataset (car) data classification 
-     - dataset columns (age, gender,AnnualSalary,Purchased)
+## 🧠 Project Overview
+This project explores both **Manual Linear Regression** and **Logistic Regression** implementations from scratch.  
+It demonstrates key machine learning principles — from **data preprocessing** to **model evaluation** and **visualization**.
 
-## Tools
-- Python
-- Pandas, NumPy, Matplotlib, Scikit-learn
-- Google Colab
+---
 
-## Author
-Mohamed Elashry
+## 📂 Contents
+- 🧹 **Data Preprocessing**
+- 📊 **Exploratory Data Analysis (EDA)**
+- 🧩 **Model Training and Evaluation**
+- 📈 **Results and Visualization**
 
+---
+
+## 🗃️ Datasets Used
+
+### 🔹 Linear Regression Dataset — *Salary Prediction*
+- **File:** `salary.csv`
+- **Columns:**  
+  - `YearsExperience`  
+  - `Salary`
+
+### 🔹 Logistic Regression Dataset — *Car Purchase Classification*
+- **File:** `car.csv`
+- **Columns:**  
+  - `Age`  
+  - `Gender`  
+  - `AnnualSalary`  
+  - `Purchased`
+
+---
+
+## 🧰 Tools & Libraries
+| Tool | Description |
+|------|--------------|
+| 🐍 **Python** | Core programming language |
+| 📦 **Pandas, NumPy** | Data manipulation and numerical computation |
+| 📊 **Matplotlib** | Visualization and plotting |
+| 🤖 **Scikit-learn** | Machine Learning utilities |
+| ☁️ **Google Colab** | Cloud-based notebook environment |
+
+---
+
+## 👨‍💻 Author
+** Mohamed Elashry 
+💼 Machine Learning Enthusiast  
+📍 NTI Graduate –  ML Track  
+
+---
+
+<p align="center">
+  <i>“Learning by doing is the key to mastering Machine Learning.”</i>
+</p>
+
+---
